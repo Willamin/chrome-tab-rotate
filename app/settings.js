@@ -12,7 +12,7 @@ settingsApp.controller('SettingsCtrl', function ($scope, $http) {
     return new Promise(function(resolve, reject) {
       var storageObject = {
         source: 'DIRECT',
-        url: 'https://raw.githubusercontent.com/KevinSheedy/chrome-tab-rotate/master/app/config.sample.json',
+        url: 'https://raw.githubusercontent.com/Willamin/chrome-tab-rotate/master/app/config.sample.json',
         configFile: ''
       };
 

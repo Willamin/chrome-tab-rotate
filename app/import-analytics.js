@@ -1,6 +1,6 @@
 console.log('import-analytics.js');
 
-var _AnalyticsId = 'UA-109046965-1';
+var _AnalyticsId = '';
 
 // Standard Google Universal Analytics code
 

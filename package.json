@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KevinSheedy/chrome-tab-rotate.git"
+    "url": "git+https://github.com/Willamin/chrome-tab-rotate.git"
   },
   "keywords": [
     "tab",
@@ -32,7 +32,7 @@
   "author": "Kevin Sheedy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KevinSheedy/chrome-tab-rotate/issues"
+    "url": "https://github.com/Willamin/chrome-tab-rotate/issues"
   },
-  "homepage": "https://github.com/KevinSheedy/chrome-tab-rotate#readme"
+  "homepage": "https://github.com/Willamin/chrome-tab-rotate#readme"
 }
